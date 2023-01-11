@@ -3,3 +3,4 @@ count = 0
 while count < strings:
   print('Я - программист!')
   count += 1
+  print('строка')
